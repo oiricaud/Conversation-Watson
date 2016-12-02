@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94b2500e8a52e1f71a600c35b2dc7d9684a84c06">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dea492a7bb304562fd19c8c16092a82b86476a5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_2fdaeb1e220241cfaeb0e6dba5e9f9d394c4bf05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c5ff0952e7b832b98ebd5718e68003b19b9079b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-jsr166e/2.22.2/3ef9c67a5bea4d914a45bd54f3405fa29a368f7a/jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/jersey-jsr166e-2.22.2_40af6ce97c52985a784c7a6f309825d9239a5616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f47cdb47a1accf896bbc734eec0e8ba190a4e577/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_08fcc0f6d030c2673f7aafd62e67b2901448a3f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_65db813f891fb8ec7a858dc4ec650d329498e736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_a927ea00a8e05d8fa7761cf2a261097ce5983dca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4169bcee570b442514c4073d94cb315917cb538e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_0e32836e7c53e439b93584aa33af3c92469df146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_04f44bb8664655b42ef7a5e7824efcde9683f81f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.3.1/14e70f2069fb98dc60346dd24cb7b6a2e321580d/okhttp-urlconnection-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.3.1_cf002cf3f328cd32f1ada02a9dab59ccb66e0a8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.3.1/ebca9fdfbef870042a19aec6a5b7a21d72639310/okhttp-ws-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.3.1_008eb54bf1192bf05d0bdcd7c22b370012e11d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_dc78dc660d955e23d73f9dc16111a5ece788fc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/java-sdk/3.3.1/dce8eed9cb740d2370d1bcd5bf56f4f0bca1ca04/java-sdk-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dce8eed9cb740d2370d1bcd5bf56f4f0bca1ca04">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/java-sdk-3.3.1_624a229ae58906b0513c83d6b71f536e700b3413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_e801de346bd8c7cb37bee0b608deb4846a623531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ec94c610a2309e8b5b27c929ebb8510872b23f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_35c04cb6852977453ba8aa2e2f5137e9018081d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b8e928bc13342119187a9d27e4ea7d9e116badbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa18c9e2af154686be4cf5ab37edeb2f7d7b4c4f">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ef8d3297e631dbbc40f61e61ed3ed23297a1326/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8d0b80d08e6a3ab625497b8b0bbaddd3e4f381f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_4c8438d3fba85a02d2bba8b61221b3f4e66013d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_031d8df507f7fcaf147459ff244e12db5d598000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/Conversation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_080980754214d9d8837ce8ca5267c0fb29419f89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/oscarricaud/Conversation/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_fafadfcb7944dd6de2e2959519aebc8e7a0af699/classes.dex" />
+    </item>
+
+</items>
